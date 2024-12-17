@@ -16,9 +16,9 @@
 ### 🌀 My Tech Universe  
 | Skill | Level         | Exploring 🌱       |
 |-------|---------------|--------------------|
-| 🖥️ C         | Advanced         | 🔧 Algorithms, functions  |
-| 🐍 Python    | Advanced         | 🕸️ Mini codes :0           |
-| 🛠️ Git       | Advanced         | 📈 Something unknown      |
+| 🖥️ C         | Beginner         | 🔧 Algorithms, functions  |
+| 🐍 Python    | Beginner         | 🕸️ Mini codes :0           |
+| 🛠️ Git       | Beginner         | 📈 Something unknown      |
    
 ---
 
