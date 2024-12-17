@@ -6,7 +6,7 @@
 
 
 ### 👋I'm Danil  
-> _Larn and repeat._
+> _Learn and repeat._
  
 🌐 Exploring the vast world of C and Python, one step at a time.  
 🌱 Always learning and growing.
@@ -17,14 +17,14 @@
 | Skill | Level         | Exploring 🌱       |
 |-------|---------------|--------------------|
 | 🖥️ C         | Advanced         | 🔧 Algorithms, functions  |
-| 🐍 Python    | Advanced         | 🕸️ Mini kods :0           |
+| 🐍 Python    | Advanced         | 🕸️ Mini codes :0           |
 | 🛠️ Git       | Advanced         | 📈 Something unknown      |
    
 ---
 
 ### 🎯 My way
 - 📘 Learning: Data Structures, Algorithms
-- 🧩 Hobbies: Sleeps:)
+- 🧩 Hobbies: Sleep:)
 - 🚀 Future Goals: Сontribute to the dev community
 
 ---
