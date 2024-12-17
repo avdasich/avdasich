@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+![photo_2024-12-17 22 35 24-2](https://github.com/user-attachments/assets/b0169a3e-3795-4d35-95a4-824f5f8f6acc)
+
 ## 🌌 Welcome to My World
 
+
 ### 👋I'm Danil  
-> _Code, learn, repeat._
+> _Larn and repeat._
  
 🌐 Exploring the vast world of C and Python, one step at a time.  
 🌱 Always learning and growing.
@@ -34,5 +37,12 @@
 - [Meeow 🐍](https://github.com/avdasich/Python-meow): Python scripts showcasing laboratory assignments, from file management to GUI experiments.
 
 ---
+
+## 🚀 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avdasich&show_icons=true&theme=radical)
+
+## 📊 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avdasich&layout=compact&theme=radical)
+
 
 ### 🌌 Reflections of My GitHub Galaxy
