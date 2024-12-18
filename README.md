@@ -4,9 +4,10 @@
 
 ## 🌌 Welcome to My World
 
-
 ### 👋I'm Hex  
 > _Learn and repeat._
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
  
 🌐 Exploring the vast world of C and Python, one step at a time.  
 🌱 Always learning and growing.
