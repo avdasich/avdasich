@@ -5,7 +5,7 @@
 ## 🌌 Welcome to My World
 
 
-### 👋I'm Danil  
+### 👋I'm Hex  
 > _Learn and repeat._
  
 🌐 Exploring the vast world of C and Python, one step at a time.  
