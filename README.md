@@ -65,4 +65,18 @@ University experiments with signal sampling, Fourier transforms, and digital sig
 
 ---
 
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/avdasich/avdasich/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/avdasich/avdasich/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/avdasich/avdasich/output/github-snake.svg">
+</picture>
+
+---
+
 *Learning by doing, one project at a time.*
