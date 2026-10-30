@@ -59,8 +59,8 @@ University experiments with signal sampling, Fourier transforms, and digital sig
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdasich&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdasich&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=avdasich&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=avdasich&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages">
 </p>
 
 ---
