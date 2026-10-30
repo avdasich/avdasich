@@ -54,7 +54,7 @@ University experiments with signal sampling, Fourier transforms, and digital sig
 
 **🧪 Other Coursework**
 
-[C Programming](https://github.com/avdasich/C-meow) · [Python](https://github.com/avdasich/Python-meow) · [Parallel Programming](https://github.com/avdasich/TPOP)
+[C Programming](https://github.com/avdasich/C-meow) · [Python](https://github.com/avdasich/Python-meow)
 
 ### 📈 GitHub Stats
 
